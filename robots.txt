@@ -1,0 +1,4 @@
+User-agent: *
+   Allow: /
+
+   Sitemap: https://castillo8976.github.io/sonidos-profundos-web/sitemap.xml
